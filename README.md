@@ -36,6 +36,8 @@
 
 ![](/img/109.png)
 
+## Descarga phpmyadmin
+
 **Creo la base de datos de phpmyadmin:**
 
 ![](/img/110.png)
