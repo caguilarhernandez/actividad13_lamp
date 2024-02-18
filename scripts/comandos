@@ -1,0 +1,11 @@
+#!/bin/bash
+
+#Incluimos archivo de Variables
+
+echo Ejemplo de importación de variables
+
+source .env
+
+echo $valor1
+
+echo $valor2
